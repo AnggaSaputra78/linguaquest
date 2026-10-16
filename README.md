@@ -266,8 +266,8 @@ The roadmap is intentionally incremental: establish a reliable learning foundati
 
 Aspiring Android Developer | Informatics Engineering
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- Portfolio: [YOUR_PORTFOLIO_URL](https://example.com)
+- GitHub: [@YOUR_USERNAME](https://github.com/AnggaSaputra78)
+- Portfolio: [YOUR_PORTFOLIO_URL](https://portofolio-wfh.netlify.app/)
 
 Interested in Android development, software architecture, educational technology, and building applications that solve practical problems.
 
